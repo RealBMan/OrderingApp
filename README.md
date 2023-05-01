@@ -4,4 +4,5 @@ This app uses SQL databases to keep track of the students login details.
 Parts of the code and the basic concept of this app/idea was inspired by this Youtube video: https://youtu.be/3vauM7axnRs (especially the conncetion to the SQL database and the CNX file). 
 
 
-	This application/project is no way affiloated with any of the stores mentioned in the code/filenames. This was simply a creative idea that used 	stores within the highschool area as a prototype.
+	This application/project is no way affiloated with any of the stores mentioned in the code/filenames. This was simply a creative idea that used 	
+	stores within the highschool area as a prototype.
