@@ -8,7 +8,6 @@
  * Author: Bowale Adetunji
  * Date: 9 November 2021
  * Purpose: Culminating project - App that allows students to purchase food from the plaza using SQL database
- * http://localhost/phpmyadmin/sql.php?db=users_db&table=users&lang=en&pos=0
  */
 
 /*Set of libraries used in the code*/
@@ -31,7 +30,7 @@ private static String username = "root";
 
 private static String dbname = "users_db";
 
-private static Integer portnumber = 3306;
+private static Integer portnumber = 3;
 
 private static String password = "";
     
